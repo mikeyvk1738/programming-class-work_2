@@ -1,0 +1,12 @@
+BEGIN
+
+INPUT
+enter the age  
+
+If the age is > or = to 18
+
+PRINT " welcome to southern lab"
+
+PRINT acess granted or denied.
+
+END
