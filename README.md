@@ -1,2 +1,2 @@
-![my process flowchart] (age_check.png.png)
+![my process flowchart] (age_check.png)
 
